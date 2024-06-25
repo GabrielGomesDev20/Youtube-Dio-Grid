@@ -19,6 +19,7 @@ Este projeto foi criado com o objetivo de praticar e demonstrar habilidades em d
 - HTML5
 - CSS3
 
+Segue [um link](URL) para ter acesso ao site criado!
 🦅
 
 <img src="./assets/imagens/Print Youtube Grid.png" alt="">
