@@ -21,4 +21,4 @@ Este projeto foi criado com o objetivo de praticar e demonstrar habilidades em d
 
 🦅
 
-![Segue uma imagem do projeto já concluido!](./assets/imagens/Print-Youtube-Grid.png)
+![Segue uma imagem do projeto já concluido!](./assets/imagens/Print Youtube Grid.png)
